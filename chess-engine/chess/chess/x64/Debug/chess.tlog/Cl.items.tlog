@@ -1,0 +1,12 @@
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\bishop.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\bishop.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\bitboard.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\bitboard.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\bits.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\bits.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\board.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\board.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\chess.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\chess.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\king.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\king.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\knight.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\knight.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\leaping_piece_gen.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\leaping_piece_gen.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\move_gen.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\move_gen.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\position.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\position.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\rook.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\rook.obj
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\sliding_piece_gen.c;C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\x64\Debug\sliding_piece_gen.obj

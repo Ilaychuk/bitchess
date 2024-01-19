@@ -1,0 +1,4 @@
+﻿  chess.c
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\chess.c(11,16): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\mechina-hanich5\source\repos\chess-engine\chess\chess\chess.c(38,34): warning C4244: 'function': conversion from 'unsigned __int64' to 'int', possible loss of data
+  chess.vcxproj -> C:\Users\mechina-hanich5\source\repos\chess-engine\chess\x64\Debug\chess.exe
